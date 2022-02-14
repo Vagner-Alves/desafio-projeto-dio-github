@@ -1,0 +1,6 @@
+Aprendi a configurar o git e github. foi uma experiencia muito legal, finalmente consegui sincronizar
+meu repositório local com a nuvem (GitHub) e daqui em diante irei utilizar essa ferramenta com mais frequencia
+
+link Download:
+
+https://git-scm.com/downloads
